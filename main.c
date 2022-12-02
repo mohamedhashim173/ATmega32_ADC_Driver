@@ -51,26 +51,3 @@ void ADCNotificationFunction(void)
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
